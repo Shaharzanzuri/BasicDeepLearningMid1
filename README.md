@@ -1,0 +1,2 @@
+# BasicDeepLearningMid1
+MID 1 PROJECT FOR BASIC OF DEEP LEARNING 
